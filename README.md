@@ -1,6 +1,6 @@
 # SQL-Power-Bi-Sales-Insights-Project
 
-**Situation**: A computer hardware company's sales director is facing an issue with his company's sales insights. He is unable to track and get a clear picture of the situation  due to regional managers hiding the problems, inaccuracy in the data and being burried in excel files. 
+**Situation**: A computer hardware company's sales director is facing an issue with his company's sales insights. He is unable to track and get a clear picture of the situation  due to regional managers hiding the problems, inaccuracy in the data and being buried in excel files. 
 
 **Task**: To provide an automated dashboard that helps in making data-driven decisions to optimise sales.
 
